@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1904
     height: 981
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Console
   m_RootView: {fileID: 11}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 613}
   m_MaxSize: {x: 18004, y: 18063}
   vertical: 1
-  controlID: 16
+  controlID: 161
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 231, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 116
+  controlID: 109
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 19
+  controlID: 62
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,7 +201,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 162
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -352,7 +352,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 18
+  controlID: 61
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -479,22 +479,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Script/MonoBehaviours
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 49
   m_LastFolders:
-  - Assets/Script/MonoBehaviours
+  - Assets
   m_LastFoldersGridSize: 49
-  m_LastProjectPath: C:\Users\Jeongmin\Desktop\files\myproject\MyRPG
+  m_LastProjectPath: C:\Users\Jeongmin\Desktop\files\MyRPG
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 18}
-    m_SelectedIDs: a2450000
-    m_LastClickedID: 17826
-    m_ExpandedIDs: 00000000824500008445000086450000884500008a45000000ca9a3b
+    m_SelectedIDs: 8a450000
+    m_LastClickedID: 17802
+    m_ExpandedIDs: 000000008a4500008c4500008e450000904500009245000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -522,7 +522,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000824500008445000086450000884500008a450000
+    m_ExpandedIDs: 000000008a4500008c4500008e4500009045000092450000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -549,7 +549,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000125900007e58000092580000aa580000d2580000b25800007a580000ba580000ae5800008e580000926b00000000000032630000e0640000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -643,7 +643,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ba450000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 46fbffff
       m_RenameOverlay:
@@ -841,7 +841,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -854,7 +854,7 @@ MonoBehaviour:
       y: 21
       width: 1183
       height: 315
-    m_Scale: {x: 0.4375, y: 0.4375}
+    m_Scale: {x: 0.46666667, y: 0.46666667}
     m_Translation: {x: 591.5, y: 157.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -862,12 +862,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1352
-      y: -360
-      width: 2704
-      height: 720
+      x: -1267.5
+      y: -337.5
+      width: 2535
+      height: 675
     m_MinimalGUI: 1
-  m_defaultScale: 0.4375
+  m_defaultScale: 0.46666667
   m_LastWindowPixelSize: {x: 1183, y: 336}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
